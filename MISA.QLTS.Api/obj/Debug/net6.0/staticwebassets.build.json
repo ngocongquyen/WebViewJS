@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "So1IT897VHpmsq3nFRq8GQotQuUlxWz2RenjahMRkjE=",
+  "Source": "MISA.QLTS.Api",
+  "BasePath": "_content/MISA.QLTS.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
